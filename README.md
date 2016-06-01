@@ -24,3 +24,7 @@
 <center>
 ![Proxy](https://github.com/JiangWeiGitHub/Lantern/blob/master/lantern.jpg)
 </center>
+
+<div align="center">
+<img src="https://github.com/JiangWeiGitHub/Lantern/blob/master/lantern.jpg"  alt="Proxy" />
+</div>
