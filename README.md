@@ -21,3 +21,6 @@
 ```
 
 + **Usage**
+<center>
+![Proxy](https://github.com/JiangWeiGitHub/Lantern/blob/master/lantern.jpg)
+</center>
