@@ -24,3 +24,6 @@
 <div align="center">
 <img src="https://github.com/JiangWeiGitHub/Lantern/blob/master/lantern.jpg"  alt="Proxy" />
 </div>
+
+# Use Docker Image Directly
+[**Docker Image**](https://hub.docker.com/r/kent72/lantern/)
